@@ -1,4 +1,5 @@
-<?php header('Location: /fetch.html');
-header('Location: /post.html');
+<?php include_once("fetch.html"); 
 
+include_once("post.html");
 ?>
+
